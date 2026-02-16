@@ -31,8 +31,6 @@ Junior backend-focused Computer Science student with experience building **ASP.N
 }
 ```
 
----
-
 ## 🧰 TECH STACK
 
 ### **Languages**
@@ -56,19 +54,6 @@ Junior backend-focused Computer Science student with experience building **ASP.N
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![xUnit](https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-
-📊 GITHUB STATS
-<div align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=meshvelianitemo&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
-</div>
-
-
-## 🎓 EDUCATION
-
-**Business and Technology University (BTU)**  
-*Bachelor of Information Technologies*  
-`2024 - Current`  
-📍 GPA: 3.6 / 4.0
 
 ---
 
